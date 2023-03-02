@@ -1,11 +1,11 @@
 # Liquidity Optimization in Constant Function Market Makers
 
-This repository hosts supplementary code for the paper "Finding the Right Curve: Optimal Design of Constant Function Market Makers"
+This repository hosts supplementary code for the paper ["Finding the Right Curve: Optimal Design of Constant Function Market Makers"]
+(https://arxiv.org/abs/2212.03340)
 by [Mohak Goyal](https://sites.google.com/view/mohakg/home), 
 [Geoffrey Ramseyer](http://www.scs.stanford.edu/~geoff/), 
 [Ashish Goel](https://web.stanford.edu/~ashishg/),
 and [David Mazières](http://www.scs.stanford.edu/~dm/).
-
 
 ## Usage
 
